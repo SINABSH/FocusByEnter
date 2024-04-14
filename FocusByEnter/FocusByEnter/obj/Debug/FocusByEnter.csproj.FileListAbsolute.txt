@@ -1,0 +1,8 @@
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\bin\Debug\FocusByEnter.exe.config
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\bin\Debug\FocusByEnter.exe
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\bin\Debug\FocusByEnter.pdb
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\obj\Debug\FocusByEnter.Form1.resources
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\obj\Debug\FocusByEnter.Properties.Resources.resources
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\obj\Debug\FocusByEnter.csproj.GenerateResource.Cache
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\obj\Debug\FocusByEnter.exe
+C:\Users\dana\Desktop\FocusByEnter\FocusByEnter\obj\Debug\FocusByEnter.pdb
